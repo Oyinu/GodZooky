@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+section{
+    
+   
+    background-color: #00AD85;
+    height:130vh ;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+
+#content{
+    display: block;
+    align-items: center;
+    justify-content: center;
+    margin-left: 15%;
+    padding: 2rem;
+    max-width: 950px;
+    background-color: black;
+    border-radius:10px ;
+    margin-top: 4%;
+}
+.heading{
+    font-size: 1.7rem;
+    font-weight: bolder;
+    color:white;
+    margin-left: 34%;
+}
+.about{
+    font-size: 1rem;
+    color: white;
+    padding-top: 2rem;
+    margin-left: 13%;
+    line-height: 55%;
+
+margin-right: 10%;
+    font-family:montserrat ;
+    padding-top: 3rem;
+    margin-bottom: 6%;
+ 
+
+}
+.about2{
+    margin-left: 8%;
+}
+.about3{
+    margin-left: 13%;
+}
+.about4{
+    margin-left: 18%;
+}
+.about5{
+    margin-left: 22%;
+}
+.about6{
+    margin-left: 43%;
+    font-size: 1rem;
+    font-family:montserrat ;
+}
+.end{
+    font-size: 2rem;
+    color: white;
+    margin-left: 27%;
+}
+.image{
+    max-width: 300px;
+    border: 13px solid white;
+    margin-left: 34%;
+    margin-top: 10;
+ }
+ @media screen and (max-width: 768px) {
+    section{
+
+        height:90vh ;
+        border: 2px solid white;
+        border-radius: 10px;
+    }
+    #content{
+        display: block;
+        align-items: center;
+        justify-content: center;
+    margin-right: 13%;
+        padding: 2rem;
+        max-width: 768px;
+        
+    }
+    .heading{
+        font-size: 1.2rem;
+        margin-left: 10%;
+    }
+    .about{
+        font-size: .9rem;
+        padding-top: 1rem;
+      background-color: black;
+      align-items: center;
+      justify-content: center;
+      line-height: 140%;
+    }
+    .about2{
+        margin-left: 2%;
+        line-height: 140%;
+    }
+    .about3{
+        margin-left: 3%;
+        line-height: 140%;
+    }
+    .about4{
+        margin-left: 3%;
+        line-height: 140%;
+    }
+    .about5{
+        margin-left: 3%;
+        line-height: 140%;
+    }
+    .about6{
+        margin-left: 3%;
+        font-size: .9rem;
+        font-family:montserrat ;
+        line-height: 140%;
+    }
+    .end{
+        font-size: .8rem;
+        margin-left:15%;
+    }
+    .image{
+            max-width: 200px;
+        margin-left: 10%;
+        line-height: 55%;
+     }
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
