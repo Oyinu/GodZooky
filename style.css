@@ -70,7 +70,7 @@ margin-right: 10%;
  @media screen and (max-width: 768px) {
     section{
 
-        height:90vh ;
+        height:120vh ;
         border: 2px solid white;
         border-radius: 10px;
     }
@@ -80,7 +80,7 @@ margin-right: 10%;
         justify-content: center;
     margin-right: 13%;
         padding: 2rem;
-        max-width: 768px;
+        max-width: 950px;
         
     }
     .heading{
